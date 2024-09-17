@@ -18,9 +18,9 @@ Work in progress...
 
 https://codepen.io/collection/yrbrrk
 
-## Sponsors (Thanks 💙 !!!)
+//## Sponsors (Thanks 💙 !!!)
 
-<a href="https://github.com/avaer">
+/*<a href="https://github.com/avaer">
   <img src="https://github.com/avaer.png" width="50px" />
 </a>
 <a href="https://github.com/designori-llc">
@@ -31,7 +31,7 @@ https://codepen.io/collection/yrbrrk
 </a>
 <a href="https://github.com/okydk">
   <img src="https://github.com/okydk.png" width="50px" />
-</a>
+</a> */
 
 ## Usage - npm
 
